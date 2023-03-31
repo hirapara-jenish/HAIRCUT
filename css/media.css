@@ -1,0 +1,148 @@
+@media screen and (max-width: 859px) {
+     .nav_bar {
+          display: none;
+
+     }
+
+     .mob_nav_bar {
+          display: none;
+     }
+
+     .menu_icon {
+          display: block;
+     }
+}
+
+@media screen and (max-width: 1200px) {
+     .slider_text {
+          left: 20%;
+     }
+}
+
+@media screen and (max-width: 1024px) {
+     .slider_text .h1{
+          left: 10%;
+          width: 80%;
+          font-size: 62px;
+     }
+     .abo_heading_text{
+          font-size: 30px;
+     }
+}
+
+@media screen and (max-width: 768px) {
+     .slider_text .h1{
+          left: 10%;
+          width: 80%;
+          font-size: 52px !important;
+     }
+     .owl-nav .owl-prev,
+     .owl-nav .owl-next{
+          font-size: 10px;
+     }
+
+     .owl-nav .owl-prev
+     {
+          font-size: 40px !important;
+          left: 2%;
+     }
+     .owl-nav .owl-next
+     {
+          font-size: 40px !important;
+          left: 94%;
+     }
+     .trestimonial .owl-carousel .item .w{
+          width: 100% !important;
+     }
+     
+     
+     .slider_main_text .error{
+          font-size: 50px;
+     }
+     .slider_main_text p{
+          font-size: 50px !important;
+     }
+     .slider_main_text .slider_sub_text{
+          font-size: 16px !important;
+     }
+}
+
+@media screen and (max-width: 576px) {
+     .slider_text .h1{
+          left: 5% !important;
+          font-size: 52px !important;
+          width: 90%;
+     }
+
+     .main_about > .left_side_img > .abo_img{
+          width: 50% !important;
+          align-self: center !important;
+     }
+
+
+     .main_about > .left_side_img > .abo_img{
+          width: 50% !important;
+          align-self: center !important;
+     }
+
+     .owl-nav .owl-prev
+     {
+          font-size: 30px !important;
+          left: 2%;
+     }
+     .owl-nav .owl-next
+     {
+          font-size: 30px !important;
+          left: 92%;
+     }
+
+     #testi{
+          padding: 0 !important;
+     }
+     .main_spacer{
+          padding: 0 20px !important;
+     }
+     
+
+}
+
+@media screen and (max-width: 425px) {
+     .slider_text .h1{
+          left: 5% !important;
+          font-size: 32px !important;
+          width: 100%;
+     }
+
+     .slider_text>i>p{
+          width: 100% !important;
+          font-size: 20px;
+     }
+
+     .main_about > .left_side_img > .abo_img{
+          width: 50% !important;
+          align-self: center !important;
+     }
+
+     .owl-nav .owl-prev
+     {
+          font-size: 30px !important;
+          left: 2%;
+     }
+     .owl-nav .owl-next
+     {
+          font-size: 30px !important;
+          left: 92%;
+     }
+
+
+     .years{
+          padding: 20px !important;
+     }
+
+     .slider_main_text .error{
+          font-size: 36px;
+     }
+     .slider_main_text .slider_sub_text{
+          font-size: 16px;
+     }
+}
